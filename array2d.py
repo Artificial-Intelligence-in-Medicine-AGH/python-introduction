@@ -10,8 +10,9 @@ import numpy as np
 # does the same what lines 3 - 8 do
 arr = np.arange(20).reshape(5,4) 
 
-arr = arr * 2 
 # alternative -> arr = np.multiply(arr,2)
+arr = arr * 2 
+
 arr = arr.reshape(2,10)
 
 print(arr)
