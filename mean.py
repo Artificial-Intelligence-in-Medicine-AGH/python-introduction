@@ -10,7 +10,6 @@ def compute_mean(narr):
     mean /= narr.size
     return mean
 
-
 ARR_SIZE = 20
 arr = random.randint(1,101, size = ARR_SIZE)
 
