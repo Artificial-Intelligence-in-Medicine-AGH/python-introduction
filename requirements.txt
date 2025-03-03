@@ -1,0 +1,6 @@
+numpy~=2.2.3
+Pillow~=11.1.0
+imageio~=2.37.0
+matplotlib~=3.10.0
+SimpleITK
+nibabel
