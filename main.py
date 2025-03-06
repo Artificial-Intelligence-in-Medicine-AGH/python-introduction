@@ -13,15 +13,15 @@ def sort(lista, dlugosc):
 def main():
     lista = np.random.randint(0, 6, 20).tolist()
 
-    for i in lista:
-        print(i)
+    #for i in lista:
+    #    print(i)
 
     posortowanaLista = sort(lista, 20)
 
-    print("sortowanie")
+    #print("sortowanie") debug
 
-    for i in lista:
-        print(i)    
+    #for i in lista:
+    #    print(i)    
         
     temp = 0
     
